@@ -75,17 +75,40 @@ With java spring you can create more modular applications, what was seen in this
 
 ### Topics
 
-- Crear una aplicacion con Spring Initializer.
-- 
+- Create an application with Spring Initializer.
+- Configure Spring Boot.
+- Create a structure for a project.
+- JPA.
+- Spring Data.
+- Connect the database with the application.
+- Map tables with classes.
+- CRUD Repository.
+- Query Methods.
+- Dependency injection.
 
 
----------
 
+ <!-- Acquired skills -->
+## Acquired skills
 
----------
-
-
----------
-
+- Set up a development environment.
+- Connect to a database.
+- Manage the Spring ecosystem.
+- Document an API.
+- Create an application with Spring Initializer.
+- Configure Spring Boot.
+- Create a structure for a project.
+- Connect the database with the application.
+- Create an Entity when primary key is composite.
+- Map relationships between classes.
+- Using the CrudRepository interface.
+- Use the data mapper pattern.
+- Dependency injection.
+- Control HTTP responses.
+- Document an API with Swagger.
+- Configure an API security with Spring Security.
+- Generate a JWT.
+- Authentication with JWT.
+- Authorization with JWT.
 
 ---------
